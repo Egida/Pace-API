@@ -13,58 +13,58 @@ max_slots = 10
 
 ssh_servers = [
     {
-        'hostname': '170.187.198.153',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '139.162.5.209',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '170.187.228.61',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '170.187.198.153',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '170.187.197.246',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '170.187.198.153',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '139.144.123.6',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
     {
-        'hostname': '139.162.8.224',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     },
    {
-        'hostname': '172.234.55.162',
+        'hostname': '1.1.1.1',
         'port': 22,
         'username': 'root',
-        'password': 'agungcina25'
+        'password': 'example'
     }
 ]
 
